@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Large Language Model.md",
+                "file": "MOC - DL para NLP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Large Language Model"
+              "title": "MOC - DL para NLP"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Large Language Model.md",
+                "file": "MOC - DL para NLP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Large Language Model"
+              "title": "Backlinks for MOC - DL para NLP"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Large Language Model.md",
+                "file": "MOC - DL para NLP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Large Language Model"
+              "title": "Outgoing links from MOC - DL para NLP"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Large Language Model.md"
+                "file": "MOC - DL para NLP.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Large Language Model"
+              "title": "Outline of MOC - DL para NLP"
             }
           }
         ]
@@ -164,6 +164,10 @@
   },
   "active": "7c2853327cdc63c1",
   "lastOpenFiles": [
+    "Conceitos gerais.md",
+    "MOC - DL para NLP.md",
+    "WMD- Word Mover Distance.md",
+    "Large Language Model.md",
     "Transformer.md",
     "Seq2Seq.md",
     "Seq2Seq com attention.md",
@@ -176,10 +180,6 @@
     "Bag of words.md",
     "Modelos neurais com n-gram.md",
     "Modelos de linguagem.md",
-    "MOC - DL para NLP.md",
-    "Conceitos gerais.md",
-    "WMD- Word Mover Distance.md",
-    "Modelos de linguagem clássicos.md",
-    "Large Language Model.md"
+    "Modelos de linguagem clássicos.md"
   ]
 }
